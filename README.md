@@ -4,5 +4,5 @@
 #### 1. 문장 앞에 숫자와 점을 사용하면
 #### 2. 문장의 순서가
 #### 3. 오름차순으로 자동 정렬됨
-#### [링크][google.com]
+#### [Google](https://google.com, "google link")
 
